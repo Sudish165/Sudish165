@@ -1,7 +1,7 @@
 <!-- ==================== HEADER BANNER ==================== -->
 
 <p align="center">
-  <img src="Sudish.jpg" width="180" style="border-radius:50%;" alt="Sudish Karki"/>
+  <img src="Sudish.jpg" width="380" style="border-radius:50%; border:5px solid white;" alt="Sudish Karki"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sudish Karki</h1>
