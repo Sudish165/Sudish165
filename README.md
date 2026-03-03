@@ -1,63 +1,68 @@
+<!-- ==================== HEADER BANNER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sudish%20Karki&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sudish Karki</h1>
-<h3 align="center">Backend Developer | Graphic Designer | 3rd Year IT Student</h3>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 IT Student (3rd Year)
-- 💼 Currently working on **GoBusNow** – Ticket Booking & Live Bus Tracking System
-- 💻 Focused on Backend Development
-- 🐍 Strong in Python & Django
-- 🗄️ Passionate about Database Design (PostgreSQL / MySQL)
-- 🚆 Building scalable ticket booking systems
-- 📚 Consistent learner & problem solver
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">🚀 Backend Developer | 🎨 Graphic Designer | 🎓 3rd Year IT Student</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudish165&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudish165&layout=compact&langs_count=8&theme=dracula" height="160"/>
+  <img src="https://komarev.com/ghpvc/?username=Sudish165&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 👨‍💻 About Me
+
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🎓 3rd Year IT Student  
+- 💼 Currently building **GoBusNow – Smart Ticket Booking & Live Bus Tracking System**  
+- 💻 Specialized in **Backend Development**  
+- 🐍 Strong in **Python & Django**  
+- 🗄️ Database Enthusiast (PostgreSQL / MySQL)  
+- 🚆 Passionate about scalable booking systems  
+- 📚 Lifelong learner & problem solver  
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sudish165&theme=dracula"/>
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,postgres,mysql,figma,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudish165&theme=dracula&row=1&column=7"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sudish165&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudish165&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🔥 Contribution Streak
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sudish165&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 Achievements
 
-<p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudish165&theme=onedark&row=1&margin-w=15"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
   <a href="mailto:sudishkarki360@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -71,4 +76,10 @@
 
 ---
 
-⭐️ *“Consistency beats motivation.”*
+# 💡 Current Focus
+
+```diff
++ Building scalable backend systems
++ Mastering Django & REST APIs
++ Improving database architecture skills
++ Preparing for backend developer roles
