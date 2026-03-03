@@ -1,93 +1,149 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">Hi 👋, I'm Sudish Karki</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Backend Developer | Django Enthusiast</h3>
+
+<p align="center">
+  <b>Backend Developer | Django Enthusiast | IT Student</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Backend+Developer+%7C+Django;Database+Designer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sudish165&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 IT Student (2nd Year)
-- 💻 Passionate about Backend Development
-- 🐍 Working with **Python & Django**
-- 🗄️ Love designing Databases (PostgreSQL, MySQL)
-- 🚀 Currently building: **Train Ticket Booking System**
-- 📚 Always learning & improving every day
+- 💻 Focused on Backend Development
+- 🐍 Strong in Python & Django
+- 🗄️ Love Database Design (PostgreSQL / MySQL)
+- 🚆 Currently building: **Train Ticket Booking System**
+- 📚 Consistent learner & problem solver
 
 ---
 
-## 📍 Contact Information
+# 📍 Contact Information
 
-- 📍 Location: Itahari / Sunsari, Nepal  
+- 📍 Location: Sunsari, Nepal  
 - 📧 Email: sudishkarki360@gmail.com  
 - 🌐 Website: www.sudishkarki.com.np  
-- 📞 Phone: +977-XXXXXXXXXX  
+- 📱 WhatsApp: https://wa.me/977XXXXXXXXXX  
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudish165&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudish165&layout=compact&langs_count=8&theme=dracula" height="160"/>
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sudish165&theme=dracula"/>
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudish165&theme=dracula&row=1&column=7"/>
+</div>
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
+</p>
 
 ### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
+</p>
 
 ### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35"/>
+</p>
 
 ### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
+</p>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudishKarki&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudishKarki&theme=tokyonight" height="160"/>
+### 🎨 Design Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SudishKarki&theme=radical&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
 ### 🚆 Train Ticket Booking System
-> Full-stack system with Django backend and PostgreSQL  
-> Features: User booking, driver route management, payment integration, PDF ticket generation, notifications
-
-### 🏬 Warehouse Management System (Coursework)
-> Structured system with ERD, DFD, Data Dictionary & full documentation
-
----
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SudishKarki&theme=tokyo-night)
+Full-stack booking system built with Django & PostgreSQL  
+✔ User booking  
+✔ Driver route management  
+✔ Payment system  
+✔ PDF ticket generation  
+✔ Notification system  
 
 ---
 
-## 🌐 Connect With Me
+### 🏬 Warehouse Management System
+Structured enterprise system with:
+✔ ERD  
+✔ DFD  
+✔ Data Dictionary  
+✔ Full Documentation  
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/yourprofile" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:sudishkarki360@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:sudishkarki360@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/977XXXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⭐️ *“Consistency beats motivation.”*  
+# 🟡 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudish165/Sudish165/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudish165/Sudish165/output/pacman-contribution-graph.svg">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/Sudish165/Sudish165/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<p align="center">
+  ⭐️ <b>“Consistency beats motivation.”</b>
+</p>
