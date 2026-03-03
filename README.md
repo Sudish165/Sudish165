@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudish Karki</h1>
-<h3 align="center">Backend Developer | Django Enthusiast | 3rd Year IT Student</h3>
+<h3 align="center">Backend Developer | Graphic Designer | 3rd Year IT Student</h3>
 
 ---
 
