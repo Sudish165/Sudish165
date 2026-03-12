@@ -6,6 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Sudish Karki</h1>
 <h3 align="center">🚀 Backend Developer | 🎨 Graphic Designer | 🎓 3rd Year IT Student</h3>
+<p>I'm Cutieee potato</p>
 
 
 <p align="center">
