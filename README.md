@@ -5,8 +5,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Cutieee Sudish Karki</h1>
-<h3 align="center">🚀 Backend Developer | 🎨 Graphic Designer | 🎓 3rd Year IT Student | Diva Slaying</h3>
-<p>I'm Cutieee potato</p>
+<h3 align="center">🚀 Backend Developer | 🎨 Graphic Designer | 🎓 3rd Year IT Student</h3>
+
 
 
 <p align="center">
