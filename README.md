@@ -19,7 +19,7 @@
 
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 3rd Year IT Student  
+- 🎓 3rd Year IT Student in Itahari International College  
 - 💼 Currently building **GoBusNow – Smart Ticket Booking & Live Bus Tracking System**  
 - 💻 Specialized in **Backend Development**  
 - 🐍 Strong in **Python & Django**  
