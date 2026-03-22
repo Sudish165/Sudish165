@@ -1,4 +1,4 @@
-<!-- ==================== HEADER BANNER =================== -->
+<!-- =================== HEADER BANNER ================== -->
 
 <p align="center">
   <img src="Sudish.jpg" width="750" style="border-radius:20px; box-shadow: 0 0 50px rgba(0,0,0,0.6);" alt="Sudish Karki"/>
